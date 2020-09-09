@@ -1,9 +1,7 @@
 # Perks
 ## Work Toys
 
-The company provides employees with the equipment we believe is required for the performance of their tasks. Company provided equipment includes the following:
-
-The equipment is handed over to the employee and remains in their possession during the term of employment or until the useful life of the equipment. The equipment remains the property of the company, however the employee is responsible for keeping the equipment safe.
+The company provides employees with the equipment we believe is required for the performance of their tasks. The equipment is handed over to the employee and remains in their possession during the term of employment or until the useful life of the equipment. The equipment remains the property of the company, however the employee is responsible for keeping the equipment safe.
 
 ### Laptop (Macbook)
 A laptop will be your core tool for development and other business activities.
