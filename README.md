@@ -1,2 +1,2 @@
-# employee-handbook
+# Stakater Employee Handbook
 Handbook for Stakater Employees
