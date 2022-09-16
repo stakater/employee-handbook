@@ -1,10 +1,10 @@
-# Perks
+# Sweden Perks
 
 ## Work Toys
 
 The company provides employees with the equipment we believe is required for the performance of their tasks. The equipment is handed over to the employee and remains in their possession during the term of employment or until the useful life of the equipment. The equipment remains the property of the company, however the employee is responsible for keeping the equipment safe.
 
-### Laptop (Macbook)
+### Laptop (MacBook)
 
 A laptop will be your core tool for development and other business activities.
 
@@ -34,7 +34,7 @@ If you can think of a business case, the company will be happy to get you a smar
 
 We highly encourage employees to read books and attend online courses to enhance their technical abilities. Any relevant books or courses may be purchased for the employee after discussion with and approval by their manager.
 
-### Conferenees
+### Conferences
 
 The company encourages employees to attend at least one relevant conference per year to improve his/her technical abilities. Any costs or time-off required for relevant conferences may be sponsored by the company for the employee after discussion with and approval by their manager.
 
@@ -48,7 +48,7 @@ If an employee travels via public transport, the company will reimburse the cost
 
 Stakater encourages its staff to work-out and exercise for a healthy lifestyle. The company pays health and training grants to all employees. 
 
-The training allowance applies to activities such as badminton, gym subscriptions, swimming, squash etc. A full list of activities is available at the Skatteverket website.
+The training allowance applies to activities such as badminton, gym subscriptions, swimming, squash etc. Allowed activities are explained at the `Skatteverket` website.
 
 The health and training expense is reimbursed by the company with the monthly salary. Employees are required to provide a receipt for the expense with the VAT specified on it.
 

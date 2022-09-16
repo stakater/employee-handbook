@@ -18,7 +18,7 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 ## Not OK
 
-1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Rasheed or Quang.
+1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ask management.
 
 2. Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year. That’s too disruptive to our own work schedule and to your fellow teammates.
 
@@ -39,4 +39,4 @@ Here’s a few guiding principles about whether something could be a problem:
 
 In general we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
 
-It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Rasheed or Quang. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.
+It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to management. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.
