@@ -1,3 +1,8 @@
+# VuePress files
+content/.vuepress/.temp/
+content/.vuepress/.cache/
+content/.vuepress/dist/
+
 .idea
 node_modules/
 yarn.lock
