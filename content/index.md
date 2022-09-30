@@ -1,4 +1,4 @@
-# About Stakater 
+# About Stakater
 
 Stakater is a leading Kubernetes experts company enabling enterprises to realize the full potential of Kubernetes and its ecosystem, by assisting their journey across Strategy, Development and Operations.
 
@@ -7,8 +7,6 @@ Stakater offers companies a highway to Kubernetes adoption for their DevSecOps a
 Our core mission is to provide professional tools and services to help customers create and manage their Kubernetes based infrastructure *effortlessly*.
 
 ## Our Core values
-* **Integrity:** Building trust, assuring confidentiality & conducting business in an ethical way.
-* **Partnership:** Develop & strengthen long term relationships through open and transparent communication.
+* **Integrity:** Building trust, assuring confidentiality & conducting business in an ethical way
+* **Partnership:** Develop & strengthen long term relationships through open and transparent communication
 * **Service orientation:** Strive every step of the way to exceed customer expectations
-
-## Our Culture
