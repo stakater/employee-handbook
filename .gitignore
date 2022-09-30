@@ -3,6 +3,9 @@ content/.vuepress/.temp/
 content/.vuepress/.cache/
 content/.vuepress/dist/
 
+# MacOS Desktop Services Store
+.DS_Store
+
 .idea
 node_modules/
 yarn.lock
