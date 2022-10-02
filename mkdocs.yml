@@ -1,0 +1,7 @@
+site_name: Stakater Handbook
+docs_dir: content
+site_url: https://change-me-before-going-to-prod.com/
+theme: readthedocs
+plugins:
+    - search
+    - mermaid2
