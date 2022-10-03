@@ -144,7 +144,7 @@ graph TD
 
 ### Knowledge and Experience
 
-- Technically expert in their field and knowledgeable in up and coming trends
+- Technically expert in their field and knowledgeable in up-and-coming trends
 - Highly developed ability to build lasting relationships with team leaders, managers and clients
 - Highly developed ability to manage risks and resources
 - Highly developed ability to provide management support
