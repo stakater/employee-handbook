@@ -24,7 +24,7 @@ graph TD
 ### Knowledge and Experience
 
 - Programming expertise
-- Ability to solve well defined problems within area of expertise
+- Ability to solve well-defined problems within area of expertise
 - Understand and deliver business value related to each task
 - Strong ability to elaborate complex technical concepts and challenges within team and in front of others
 - Collaborative and strong learning attitude
@@ -125,7 +125,7 @@ graph TD
 
 - Communication - being the technical centerpiece of all the parties, they must be capable of communicating technical aspects, risks, challenges, and selling points clearly. Capable of providing advice, explanation, empathy, influence, and negotiation skills to navigate the solution with prowess.
 - Awareness - be aware of the advantages as well as disadvantages of the people under management, the technical and business risks of the solution to ensure successful delivery
-- Efficient - can break down solutions into well defined and executable components with precise time, cost and resource estimates to properly plan the execution of the solution
+- Efficient - can break down solutions into well-defined and executable components with precise time, cost and resource estimates to properly plan the execution of the solution
 
 ### Performance Indicators
 
@@ -154,7 +154,7 @@ graph TD
 
 - Communication - being the centerpiece for all the parties, they must be capable of communicating technical aspects, risks, challenges, and selling points clearly. Capable of providing advice, explanation, empathy, influence, and negotiation skills to navigate the solution with prowess
 - Awareness - be aware of the advantages as well as disadvantages of the people under management, the technical and business risks of the solution to ensure successful delivery
-- Efficient - can break down solutions into well defined and executable components with precise time, cost and resource estimates to properly plan the execution of the solution
+- Efficient - can break down solutions into well-defined and executable components with precise time, cost and resource estimates to properly plan the execution of the solution
 
 ### Performance Indicators
 
