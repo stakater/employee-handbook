@@ -65,7 +65,7 @@ graph TD
 - Courage - anticipates future problems and works to minimize or prevent them, constructively challenges current practices, acts decisively and proactively, resolves incidents effectively and finds root causes via blameless postmortems
 - Influence without authority - adapts behavior and communication style to the needs of the audience, credibly communicates a well-developed point of view, develops relations with key decision makers, anticipates reaction and objections from others and is prepared for them
 - Insight - benchmarks to discover opportunities for competitive advantage, simplifies complex issues into easily understandable elements
-- Energize and engage - create a climate of trust in which people want to do their best, invites input from others and creates shared ownership, helps other understand the importance of their contributions to overall vision and goals
+- Energize and engage - create a climate of trust in which people want to do their best, invites input from others and creates shared ownership, helps others understand the importance of their contributions to overall vision and goals
 
 ### Performance Indicators
 
