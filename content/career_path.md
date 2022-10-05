@@ -1,5 +1,7 @@
 # Stakater Career Paths - Managed Services
 
+The career paths for managed services are as follows:
+
 ```mermaid
 graph TD
     SE[Software Engineer] --> SSE(Senior Software Engineer)
@@ -11,6 +13,8 @@ graph TD
     SSEM --> P(Partner)
     SSA --> P
 ```
+
+The process for going from one role to the next is described in the [process document](career_path_process.md).
 
 ## Software Engineer
 
