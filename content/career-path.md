@@ -14,7 +14,7 @@ graph TD
     SSA --> P
 ```
 
-The process for going from one role to the next is described in the [process document](career_path_process.md).
+The process for going from one role to the next is described in the [process document](career-path-process.md).
 
 ## Software Engineer
 

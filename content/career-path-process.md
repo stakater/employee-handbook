@@ -1,6 +1,6 @@
 # Career Path Process
 
-To go from one level to the next in the [career path](career_path.md):
+To go from one level to the next in the [career path](career-path.md):
 
 1. Make sure you understand the role description in the career path
 1. Start acting like the role you want to become - if you want to become a senior architect, start acting like one
