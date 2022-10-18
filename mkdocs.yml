@@ -1,6 +1,6 @@
 site_name: Stakater Handbook
 docs_dir: content
-site_url: https://CHANGE.com
+site_url: https://employee-handbook.stakater.com
 repo_url: https://github.com/stakater/employee-handbook
 theme:
     name: material
