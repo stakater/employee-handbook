@@ -21,5 +21,5 @@ RUN mkdocs build
 # Set non-root user
 USER 1001
 
-EXPOSE 8000
-CMD ["python", "-m", "http.server", "8000", "-d", "./site"]
+EXPOSE 8080
+CMD ["python", "-m", "http.server", "8080", "-d", "./site"]
