@@ -1,6 +1,6 @@
 site_name: Stakater Handbook
 docs_dir: content
-site_url: https://employee-handbook.stakater.com
+site_url: https://employee.stakater.com
 repo_url: https://github.com/stakater/employee-handbook
 theme:
     name: material
@@ -13,9 +13,9 @@ theme:
     features:
         - navigation.tabs
 extra:
-    #analytics:
-    #    provider: google
-    #    property: G-XXXXXXXXXX
+    analytics:
+        provider: google
+        property: G-TTH1YYW5TX
     consent:
         title: Cookie consent
         actions:
