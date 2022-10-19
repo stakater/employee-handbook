@@ -1,4 +1,4 @@
-# Vacation
+# Sweden Vacation
 An employee is entitled to 25 vacation days per year which should be used in consultation with their manager. Vacation days are earned retroactively. If an employment term ends at a point when an employee has used more vacation days than they have earned, the excess days are offset when the final salary is calculated.
 
 For any type of emergency or unforeseen absence, employees have to inform their supervisor at the customer organization and manager at Stakater as soon as possible.
