@@ -5,6 +5,9 @@ on:
     branches:
       - 'master'
 
+env:
+  DOCKER_FILE_PATH: Dockerfile
+
 jobs:
   link_check:
     runs-on: ubuntu-latest
