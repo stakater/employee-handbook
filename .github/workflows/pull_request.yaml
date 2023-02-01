@@ -9,6 +9,15 @@ env:
   DOCKER_FILE_PATH: Dockerfile
 
 jobs:
+  markdown_lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v3.2.0
+        with:
+          files: content
+          config_file: markdownlint.yaml
   link_check:
     runs-on: ubuntu-latest
     steps:
