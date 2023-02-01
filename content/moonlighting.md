@@ -1,4 +1,4 @@
-# A Note About Moonlighting 
+# A Note About Moonlighting
 
 Moonlighting means working other professional, paid jobs outside of your work at Stakater. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of Stakater don’t create conflicts of interest or affect your time, dedication, or performance at Stakater. So it’s a delicate balance.
 

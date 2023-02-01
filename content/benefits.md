@@ -46,7 +46,7 @@ If an employee travels via public transport, the company will reimburse the cost
 
 ## Health and training grant
 
-Stakater encourages its staff to work-out and exercise for a healthy lifestyle. The company pays health and training grants to all employees. 
+Stakater encourages its staff to work-out and exercise for a healthy lifestyle. The company pays health and training grants to all employees.
 
 The training allowance applies to activities such as badminton, gym subscriptions, swimming, squash etc. Allowed activities are explained at the `Skatteverket` website.
 
