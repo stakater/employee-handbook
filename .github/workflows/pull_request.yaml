@@ -16,6 +16,7 @@ jobs:
     uses: stakater/.github/.github/workflows/pull_request_container_build@v0.0.12
     with:
       DOCKER_FILE_PATH: Dockerfile
+    secrets:
       CONTAINER_REGISTRY_URL: ${{ secrets.STAKATER_NEXUS_PREPROD_REGISTRY }}
       CONTAINER_REGISTRY_USERNAME: ${{ secrets.STAKATER_NEXUS_PREPROD_USERNAME }}
       CONTAINER_REGISTRY_PASSWORD: ${{ secrets.STAKATER_NEXUS_PREPROD_PASSWORD }}
