@@ -5,110 +5,19 @@ on:
     branches:
       - 'master'
 
-env:
-  DOCKER_FILE_PATH: Dockerfile
-
 jobs:
-  markdown_lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: markdownlint-cli
-        uses: nosborn/github-action-markdown-cli@v3.2.0
-        with:
-          files: content
-          config_file: markdownlint.yaml
-  link_check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Link check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          config-file: .github/md_config.json
-  spell_check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: recursive
-      - name: Spell check
-        uses: errata-ai/vale-action@v2.0.1
-        with:
-          styles: https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
-          files: content
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-  style_check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Style check
-        uses: reviewdog/action-languagetool@v1
-        with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          reporter: github-pr-review
-          level: warning
-          language: 'en-US'
-          patterns: '**/*.md'
+  qa:
+    uses: stakater/.github/.github/workflows/pull_request_doc_qa.yaml@v0.0.12
+    with:
+      MD_CONFIG: .github/md_config.json
+      DOC_SRC: content
+      MD_LINT_CONFIG: markdownlint.yaml
   build:
-    runs-on: ubuntu-latest
-    if: "! contains(toJSON(github.event.commits.*.message), '[skip-ci]')"
-    steps:
-      - name: Check out code
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false # otherwise your personal token will be used
-          fetch-depth: 0 # otherwise you will fail to push refs to dest repo
-          ref: ${{github.event.pull_request.head.sha}}
-
-      - name: Generate Tag
-        id: generate_tag
-        run: |
-          sha=${{ github.event.pull_request.head.sha }}
-          tag="SNAPSHOT-PR-${{ github.event.pull_request.number }}-${sha:0:8}"
-          echo "##[set-output name=GIT_TAG;]$(echo ${tag})"
-
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v2
-
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
-
-      - name: Login to Registry
-        uses: docker/login-action@v2
-        with:
-          registry: ${{ secrets.STAKATER_NEXUS_PREPROD_REGISTRY }}
-          username: ${{ secrets.STAKATER_NEXUS_PREPROD_USERNAME }}
-          password: ${{ secrets.STAKATER_NEXUS_PREPROD_PASSWORD }}
-
-      - name: Generate image repository path
-        id: image_repository_op
-        run: |
-          echo IMAGE_REPOSITORY=$(echo ${{ secrets.STAKATER_NEXUS_PREPROD_REGISTRY }}/${{ github.repository }} | tr '[:upper:]' '[:lower:]') >> $GITHUB_ENV
-
-      - name: Build and push
-        uses: docker/build-push-action@v3
-        with:
-          context: .
-          file: ${{ env.DOCKER_FILE_PATH }}
-          pull: true
-          push: true
-          build-args: BUILD_PARAMETERS=${{ env.BUILD_PARAMETERS }}
-          cache-to: type=inline
-          tags: |
-            ${{ env.IMAGE_REPOSITORY }}:${{ steps.generate_tag.outputs.GIT_TAG }}
-          labels: |
-            org.opencontainers.image.source=${{ github.event.repository.clone_url }}
-            org.opencontainers.image.created=${{ steps.prep.outputs.created }}
-            org.opencontainers.image.revision=${{ github.sha }}
-
-      - name: Notify Slack
-        uses: 8398a7/action-slack@v3
-        if: always() # Pick up events even if the job fails or is canceled
-        with:
-          status: ${{ job.status }}
-          fields: repo,author,action,eventName,ref,workflow
-        env:
-          GITHUB_TOKEN: ${{ secrets.STAKATER_GITHUB_TOKEN }}
-          SLACK_WEBHOOK_URL: ${{ secrets.STAKATER_DELIVERY_SLACK_WEBHOOK }}
+    uses: stakater/.github/.github/workflows/pull_request_container_build.yaml@v0.0.12
+    with:
+      DOCKER_FILE_PATH: Dockerfile
+    secrets:
+      CONTAINER_REGISTRY_URL: ${{ secrets.STAKATER_NEXUS_PREPROD_REGISTRY }}
+      CONTAINER_REGISTRY_USERNAME: ${{ secrets.STAKATER_NEXUS_PREPROD_USERNAME }}
+      CONTAINER_REGISTRY_PASSWORD: ${{ secrets.STAKATER_NEXUS_PREPROD_PASSWORD }}
+      SLACK_WEBHOOK_URL: ${{ secrets.STAKATER_DELIVERY_SLACK_WEBHOOK }}
