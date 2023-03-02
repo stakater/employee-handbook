@@ -1,4 +1,23 @@
-FROM python:3.11-alpine
+FROM python:3.11-alpine as builder
+
+RUN pip3 install mkdocs-material mkdocs-mermaid2-plugin
+
+# set workdir
+RUN mkdir -p $HOME/application
+WORKDIR $HOME/application
+
+# copy the entire application
+COPY --chown=1001:root . .
+
+# build the docs
+RUN mkdocs build
+
+FROM nginxinc/nginx-unprivileged:1.23-alpine as deploy
+COPY --from=builder $HOME/application/site/ /usr/share/nginx/html/
+COPY default.conf /etc/nginx/conf.d/
+
+# set non-root user
+USER 1001
 
 LABEL name="Stakater Employee Handbook" \
       maintainer="Stakater <hello@stakater.com>" \
@@ -6,20 +25,6 @@ LABEL name="Stakater Employee Handbook" \
       release="1" \
       summary="Stakater Employee Handbook"
 
-RUN pip3 install mkdocs-material mkdocs-mermaid2-plugin
+EXPOSE 8080:8080/tcp
 
-# Set workdir
-RUN mkdir -p $HOME/handbook
-WORKDIR $HOME/handbook
-
-# Copy the entire handbook
-COPY --chown=1001:root . .
-
-# Build the handbook
-RUN mkdocs build
-
-# Set non-root user
-USER 1001
-
-EXPOSE 8080
-CMD ["python", "-m", "http.server", "8080", "-d", "./site"]
+CMD ["nginx", "-g", "daemon off;"]
