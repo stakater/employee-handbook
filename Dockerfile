@@ -1,4 +1,4 @@
-FROM python:3.11-alpine as builder
+FROM python:3.12-alpine as builder
 
 RUN pip3 install mkdocs-material mkdocs-mermaid2-plugin
 
