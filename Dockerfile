@@ -12,7 +12,7 @@ COPY --chown=1001:root . .
 # build the docs
 RUN mkdocs build
 
-FROM nginxinc/nginx-unprivileged:1.24-alpine as deploy
+FROM nginxinc/nginx-unprivileged:1.25-alpine as deploy
 COPY --from=builder $HOME/application/site/ /usr/share/nginx/html/
 COPY default.conf /etc/nginx/conf.d/
 
