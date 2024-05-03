@@ -3,3 +3,4 @@ node_modules/
 yarn.lock
 site/
 styles/
+mkdocs.yml
