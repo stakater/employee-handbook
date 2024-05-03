@@ -4,4 +4,4 @@ yarn.lock
 site/
 dist/
 styles/
-mkdocs.yml
+/mkdocs.yml

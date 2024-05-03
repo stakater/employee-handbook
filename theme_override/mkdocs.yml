@@ -1,0 +1,15 @@
+site_name: Stakater Handbook
+docs_dir: content
+site_url: https://employee.stakater.com
+repo_url: https://github.com/stakater/employee-handbook
+edit_uri: blob/master/content/
+
+nav:
+    - index.md
+    - joining.md
+    - benefits.md
+    - moonlighting.md
+    - otherinfo.md
+    - vacation.md
+    - career-path.md
+    - career-path-process.md
