@@ -1,13 +1,18 @@
 FROM python:3.12-alpine as builder
 
-RUN pip3 install mkdocs-material mkdocs-mermaid2-plugin
-
 # set workdir
 RUN mkdir -p $HOME/application
 WORKDIR $HOME/application
 
 # copy the entire application
 COPY --chown=1001:root . .
+
+RUN pip3 install -r theme_common/requirements.txt
+
+# Combine Theme Resources
+RUN python theme_common/scripts/combine_theme_resources.py theme_common/resources theme_override/resources dist/_theme
+# Produce mkdocs file
+RUN python theme_common/scripts/combine_mkdocs_config_yaml.py theme_common/mkdocs.yml theme_override/mkdocs.yml mkdocs.yml
 
 # build the docs
 RUN mkdocs build
