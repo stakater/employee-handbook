@@ -52,6 +52,6 @@ Salary adjustments are based on the following seven main evaluation categories:
 - Learning and Development: The employee's willingness to develop and learn new things.
 - Efficiency: The ability to work efficiently and deliver results productively.
 
-# Documentation and Basis
+## Documentation and Basis
 
 To ensure a fair and accurate assessment, data and feedback are collected throughout the year, including 1:1 meetings, performance reviews and other relevant meetings. This information forms the basis for the salary revision and ensures that it reflects the employee's performance and development over time.
