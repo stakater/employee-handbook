@@ -5,6 +5,7 @@
 The purpose of this salary policy is to ensure a fair and transparent salary setting that rewards employees' performance and contributions to the company's goals. The policy serves as a guide for how salaries are determined, revised and communicated within the company.
 
 ## Salary Principles
+
 Salary setting is based on the following principles:
 
 - Performance and Results where salaries are set based on the employee's performance, evaluated according to clear criteria and goals established in collaboration with their immediate manager.
@@ -32,6 +33,7 @@ Salary setting is based on the following principles:
 -- Feedback and review where we evaluate the whole salary process to identify areas for improvement in future salary revisions.
 
 ## Timeline for the Salary Process
+
 . Start in January: Begin preparations for the salary revision
 . Start in February: Initiate performance reviews and gather documentation
 . Completion in March-April: Finalize evaluations and salary setting discussions
@@ -39,6 +41,7 @@ Salary setting is based on the following principles:
 . Completion by September: Evaluate the process
 
 ## Evaluation Criteria
+
 Salary adjustments are based on the following seven main evaluation categories:
 
 - Results: How well the employee has achieved their set goals.
