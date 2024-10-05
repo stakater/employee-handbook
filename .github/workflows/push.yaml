@@ -7,13 +7,13 @@ on:
 
 jobs:
   push:
-    uses: stakater/.github/.github/workflows/push_container.yaml@v0.0.90
+    uses: stakater/.github/.github/workflows/push_container.yaml@v0.0.94
     with:
       DOCKER_FILE_PATH: Dockerfile
       RELEASE_BRANCH: master
     secrets:
       CONTAINER_REGISTRY_URL: ghcr.io/stakater
-      CONTAINER_REGISTRY_USERNAME: stakater-user
-      CONTAINER_REGISTRY_PASSWORD: ${{ secrets.STAKATER_GITHUB_TOKEN }}
+      CONTAINER_REGISTRY_USERNAME: ${{ github.actor }}
+      CONTAINER_REGISTRY_PASSWORD: ${{ secrets.GHCR_TOKEN }}
       SLACK_WEBHOOK_URL: ${{ secrets.STAKATER_DELIVERY_SLACK_WEBHOOK }} 
-      GH_TOKEN: ${{ secrets.STAKATER_GITHUB_TOKEN }}
+      GH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
