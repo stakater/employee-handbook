@@ -80,7 +80,6 @@ If an employee travels via public transport, the company will reimburse travel t
 - The company will pay for any work travel to Stockholm or other cities.
 - To attend an event requested by the company/client.
 
-
 ### SIM-card
 
 Each employee will get a postpaid SIM-card from the company with a subscription type minimum Flat rate with 50 GB data, which includes unlimited free calls and SMS/MMS within Sweden. Employees should use it only for calls within Sweden. The cost of all calls outside Sweden (if not official) will be deducted from the salary.
@@ -123,12 +122,14 @@ If the employee needs terminal glasses for their work, they will be provided by 
 ### Bonuses
 
 Recruitment Referral Bonus
-- Employee Referral Bonus, SEK 5000 if the person lives in and works from country other than Sweden
-- Employee Referral Bonus, SEK 10000 if the person lives in a country other than Sweden but moves to Sweden to work at Stakater
-- Employee Referral Bonus, SEK 50000 if the person lives in Sweden and is hired to work at Stakater
+
+- Employee Referral Bonus, SEK 5000 if the person lives in and works from country other than Sweden.
+- Employee Referral Bonus, SEK 10000 if the person lives in a country other than Sweden but moves to Sweden to work at Stakater.
+- Employee Referral Bonus, SEK 50000 if the person lives in Sweden and is hired to work at Stakater.
 - Bonus will be paid once the probationary period of the person ends and he starts working as a permanent employee.
 
 Assignment referral bonus (For IT consultants only)
+
 - Assignment Referral Bonus, SEK 10000
 - Bonus will be paid once the consultants start the assignment.
 
