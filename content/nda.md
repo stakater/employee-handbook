@@ -4,7 +4,6 @@ This Non-Disclosure, Intellectual Property Rights & Restrictions Agreement (the 
 
 STAKATER AB 559066-6870 of Valhallavägen 2 Täby 18773 Stockholm Sweden (“Company”); and 
 
-
 ---
 
 the (“Receiving Party”).
