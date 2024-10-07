@@ -2,27 +2,6 @@
 
 For the Swedish staff
 
-## Table Of Content
-
-- Working hours and office space
-- Tools
-- Salary
-- Benefits
-- Books and online courses
-- Conferences
-- Traveling to Customer site
-- SIM-card
-- Health and training grant
-- Pension & Insurance
-- Terminal Glasses
-- Bonuses
-- Vacation
-- Employee CV
-- Personal Information
-- Daily work
-- Ancillary activities
-- Termination of employment
-
 ## Working hours and office space
 
 Regular working hours are forty (40) hours per week excluding lunch. At times over-time may be required compensation for which will be handled based on the specific case and the service contract with the end customer.
