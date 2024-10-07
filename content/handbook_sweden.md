@@ -83,7 +83,8 @@ The health and training grant is reported as expenses and then reimbursed by the
 
 #### Calculations
 
-Each employee will get SEK 5000 per year (SEK 417 / month). 
+Each employee will get SEK 5000 per year (SEK 417 / month).
+
 - If the employee joins in June, the person will get SEK 2919 for the rest of the year.
 - Formula: SEK 417 * the number of months remaining in the year, including the month of joining.
 - If an employee has already used more than the allowed amount during the year of leaving the company, the extra amount will be adjusted in the final salary.
@@ -91,6 +92,7 @@ Each employee will get SEK 5000 per year (SEK 417 / month).
 ### Pension & Insurance
 
 Stakater provides the following insurances to employees:
+
 - Pension (Ålderpension) via Avanza (www.avanza.se) – SEK 1200 per employee per month.
 - Health Insurance (Vårdförsäkring) via SEB Försäkring.
 - Occupational Group Life Insurance (Tjänstegrupplivförsäkring) via SEB Försäkring.
@@ -120,4 +122,3 @@ As a consultant at Stakater, it is important to keep the CV updated during emplo
 ## Personal Information
 
 Stakater processes employees' personal data according to applicable laws, including GDPR.
-

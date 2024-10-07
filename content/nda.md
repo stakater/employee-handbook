@@ -15,9 +15,9 @@ The Company will engage the Receiving Party as a [EMPLOYEE / EXTERNAL WORKER / T
 ## NON-DISCLOSURE
 
 “Confidential Information” means any and all information relating to Company that Company reasonably wishes to keep confidential including but not limited to information concerning the Company’s agreements affairs architecture business concepts business plans client and customer information experience financial data formulas ideas know-how marketing campaigns marketing plans methods operations personnel processes profitability projects products services trade secrets technology (including without limitation networking ecosystem technical drawings designs software schematics algorithms technical data product plans research plans etc.) and inventions (whether or not patentable) images of the Company’s employees and officers within their home(s) or workplace regardless of whether the information has been documented or not and any other information which should be reasonably understood to be confidential or proprietary information of the Company; with the exception of:
-- information which at the time of transfer is generally known or enters the public domain in a manner other than by breach by the Receiving Party of this Agreement; 
-- information that the Receiving Party can prove that he/she already had knowledge of before it was received in connection with the engagement unless the information is subject to any obligation of secrecy due to another agreement or confidentiality obligations with the Company; 
-- information that the Receiving Party received from a third-party who is not or has not been constrained from disclosing such information by law other agreement or confidentiality obligations and 
+- information which at the time of transfer is generally known or enters the public domain in a manner other than by breach by the Receiving Party of this Agreement;
+- information that the Receiving Party can prove that he/she already had knowledge of before it was received in connection with the engagement unless the information is subject to any obligation of secrecy due to another agreement or confidentiality obligations with the Company;
+- information that the Receiving Party received from a third-party who is not or has not been constrained from disclosing such information by law other agreement or confidentiality obligations and
 - information that the Receiving Party is obligated to disclose according to law statutes court or authority order or other mandatory stipulations on condition that the Company is informed of the matter prior to publication and that the publication is restricted as far as possible.
 
 ### Non-Use and Non-Disclosure
@@ -30,7 +30,7 @@ All Confidential Information shall be and remain the property of the Company at 
 
 ### Contractors and Employees
 
-In the event the engagement requires the Receiving Party’s contractors/employees to gain access to the Confidential Information the Receiving Party agrees and accepts that this access must be regulated separately in a specific document prepared between him/her and his/her contractors/employees. It is the responsibility of the Receiving Party to ensure that those contractors/employees enter into written confidentiality agreements and that they will comply with confidentiality undertakings no less restrictive than those contained in this Agreement. 
+In the event the engagement requires the Receiving Party’s contractors/employees to gain access to the Confidential Information the Receiving Party agrees and accepts that this access must be regulated separately in a specific document prepared between him/her and his/her contractors/employees. It is the responsibility of the Receiving Party to ensure that those contractors/employees enter into written confidentiality agreements and that they will comply with confidentiality undertakings no less restrictive than those contained in this Agreement.
 
 ### Third-Party Confidential Information
 
@@ -44,9 +44,9 @@ The Receiving Party’s obligations in this Clause 2 shall apply during his/her 
 
 During the engagement of the Receiving Party with the Company Receiving Party undertakes not to without the prior written consent of Company make preparations or carry out directly or indirectly any business or activity which competes or conflicts with Company or in other manners directly or indirectly accept employment perform services or acquire ownership in any business or activity that carries out such business or activity or in other ways assist such business or activity.
 
-Company shall have the right and option to enforce the restrictions of Non-Competition in this Clause 3 for a period of twelve (12) months following the termination of the engagement of the Receiving Party with the Company. During such period the Receiving Party shall notify Company in writing at least forty-five (45) days prior to undertaking any activity that may conflict with this Clause 3. 
+Company shall have the right and option to enforce the restrictions of Non-Competition in this Clause 3 for a period of twelve (12) months following the termination of the engagement of the Receiving Party with the Company. During such period the Receiving Party shall notify Company in writing at least forty-five (45) days prior to undertaking any activity that may conflict with this Clause 3.
 
-In the event Company approves in writing or does not respond within the 45-day period the requested activity shall be considered approved. 
+In the event Company approves in writing or does not respond within the 45-day period the requested activity shall be considered approved.
 
 In the event Company disapproves in writing within the 45-day period the Receiving Party may not undertake the requested activity and Company shall pay for the inconvenience which the restriction entails to the Receiving Party the difference between the payments made by the Company to the Receiving Party arising from this engagement and all other compensations which the Receiving Party subsequently earns directly or indirectly in any new activity (“Compensation”).
 
@@ -57,6 +57,7 @@ The Receiving Party is under a duty to mitigate the Compensation payable by acti
 ## NON-SOLICITATION
 
 During the engagement of the Receiving Party with the Company and six (6) months thereafter the Receiving Party undertakes not to:
+
 - directly or indirectly try to recruit entice away or solicit personnel of Company with whom the Receiving Party has had extensive dealings with or who has specific professional skills which are of significance for the Company or influence such personnel to end their employment or engagement with the Company; nor
 - establish business relationships with any of the Company’s business partners or prospects (defined as customers investors licensees suppliers service providers or other partners aiming to acquire any business right to Company) or weaken such partner’s relationship with Company.
 
@@ -84,7 +85,7 @@ Following termination of the engagement of the Receiving Party with the Company 
 
 ### Invalidity of regulation
 
-Should any regulation in this Agreement or part thereof prove to be invalid this shall not signify that the Agreement in its entirety is invalid but to the extent that the invalidity substantially affects the undertakings or obligations of any Party in the Agreement reasonable adjustment of the Agreement shall take place. 
+Should any regulation in this Agreement or part thereof prove to be invalid this shall not signify that the greement in its entirety is invalid but to the extent that the invalidity substantially affects the undertakings or obligations of any Party in the Agreement reasonable adjustment of the Agreement shall take place.
 
 ### Passivity
 
@@ -92,9 +93,8 @@ The failure of a Party to exercise any rights pursuant to this Agreement or fail
 
 ### Enforcement
 
-Without restricting the Company’s other rights or other right to compensation the Receiving Party concedes that damages are not a fully satisfactory means of compensation for violation of this Agreement. Consequently the Company in addition to potential damages is also entitled to other legal remedies such as interim relief or precautionary measures in the event of a threat of a breach or an established breach of this Agreement. 
+Without restricting the Company’s other rights or other right to compensation the Receiving Party concedes that damages are not a fully satisfactory means of compensation for violation of this Agreement. Consequently the Company in addition to potential damages is also entitled to other legal remedies such as interim relief or precautionary measures in the event of a threat of a breach or an established breach of this Agreement.
 
 ### Governing Law & Jurisdiction
 
 This Agreement shall be governed by laws of Sweden without regard to its principle of conflict of laws. Any dispute controversy or claim arising out of or in connection with this Agreement or the breach termination or invalidity thereof shall be finally settled by a court of general jurisdiction.
-
