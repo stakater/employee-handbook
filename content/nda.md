@@ -86,7 +86,7 @@ Following termination of the engagement of the Receiving Party with the Company 
 
 ### Invalidity of regulation
 
-Should any regulation in this Agreement or part thereof prove to be invalid this shall not signify that the greement in its entirety is invalid but to the extent that the invalidity substantially affects the undertakings or obligations of any Party in the Agreement reasonable adjustment of the Agreement shall take place.
+Should any regulation in this Agreement or part thereof prove to be invalid this shall not signify that the agreement in its entirety is invalid but to the extent that the invalidity substantially affects the undertakings or obligations of any Party in the Agreement reasonable adjustment of the Agreement shall take place.
 
 ### Passivity
 
