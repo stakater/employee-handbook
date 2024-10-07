@@ -1,6 +1,4 @@
-# Employee Handbook
-
-For the Swedish staff
+# Sweden Employee Handbook
 
 ## Working hours and office space
 
