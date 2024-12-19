@@ -1,4 +1,4 @@
-= Travel Policy 
+= Travel Policy
 
 **Scope: This policy applies to all employees in Sweden**
 
@@ -28,7 +28,7 @@ This section applies specifically to travel to and from client sites. Regular co
 
 === Transportation Priority
 
-1. Public Transportation
+. Public Transportation
 
 ** Should be the first choice for client site visits when practical
 
@@ -40,7 +40,7 @@ This section applies specifically to travel to and from client sites. Regular co
 
 ** Discuss transport options for each client assignment with your manager
 
-2. Personal Vehicle Usage
+. Personal Vehicle Usage
 
 * Requires prior approval from immediate manager
 
@@ -90,11 +90,13 @@ When approved, the following compensation applies:
 * Inner Zone (within 25 km):
 
 ** Tax-free mileage compensation only
+
 ** Distance calculated as actual journey minus regular commute
   
 * Outer Zone (beyond 25 km):
 
 ** Full mileage compensation (SEK 26 per 10 km)
+
 ** Distance calculated as actual journey minus regular commute
 
 ==== Other Office Locations
@@ -102,6 +104,7 @@ When approved, the following compensation applies:
 * All zones (regardless of distance):
 
 ** Tax-free mileage compensation only
+
 ** Distance calculated as actual journey minus regular commute
 
 === Per Diem for Daily Commuting
