@@ -1,6 +1,7 @@
+
 = Travel Policy
 
-**Scope: This policy applies to all employees in Sweden**
+*Scope: This policy applies to all employees in Sweden*
 
 == General Principles
 
