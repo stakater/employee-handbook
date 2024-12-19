@@ -1,4 +1,4 @@
-= Travel Policy
+# Travel Policy
 
 == General Principles
 
