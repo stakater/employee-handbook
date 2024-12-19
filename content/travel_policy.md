@@ -87,14 +87,17 @@ This section applies specifically to travel to and from client sites. Regular co
 ==== Stockholm-based Employees
 
 * Inner Zone (within 25 km):
+
 ** Tax-free mileage compensation only
 ** Distance calculated as actual journey minus regular commute
   
 * Outer Zone (beyond 25 km):
+
 ** Full mileage compensation (SEK 26 per 10 km)
 ** Distance calculated as actual journey minus regular commute
 
 ==== Other Office Locations
+
 * All zones (regardless of distance):
 ** Tax-free mileage compensation only
 ** Distance calculated as actual journey minus regular commute
@@ -155,15 +158,19 @@ This section applies specifically to travel to and from client sites. Regular co
 == Transportation Guidelines
 
 === Preferred Methods
+
 . Public Transport
+
 * Economy/second class as standard
 * Exceptions require manager approval
 
 . Personal Vehicle
+
 * SEK 26 per 10 km (combined tax-free and taxable portions)
 * Must follow Swedish Tax Agency current guidelines
 
 . Taxi
+
 * Limited to situations where public transport is unavailable/impractical
 
 == International Travel
@@ -181,6 +188,7 @@ This section applies specifically to travel to and from client sites. Regular co
 * Full day allowance: Departure before 12:00 or return after 19:00
 * Half day allowance: Departure after 12:00 or return before 19:00
 * For travel spanning multiple countries in one day (06:00 - 24:00):
+
 ** Per diem based on country where most time was spent
 ** If majority of time spent in Sweden on arrival/departure day, Swedish domestic rates and rules apply
 ** Time spent in each country is calculated using the local time of each location
@@ -195,11 +203,13 @@ This section applies specifically to travel to and from client sites. Regular co
 ==== Per Diem Reductions for Provided Meals
 
 * Per diem is reduced when free meals are provided:
+
 ** Breakfast: 15% reduction of daily allowance
 ** Lunch: 35% reduction of daily allowance
 ** Dinner: 35% reduction of daily allowance
 * Meals included in conference fees or business meetings are considered provided meals
 * Hotel breakfast is considered a provided meal when:
+
 ** Included in the room rate
 ** Cannot be deselected for a lower room rate
 ** Part of a mandatory package
@@ -226,13 +236,16 @@ This section applies specifically to travel to and from client sites. Regular co
 
 * Public transport should be used when practical and safe
 * Taxi usage permitted when:
+
 ** Public transport is unavailable or impractical
 ** Safety concerns exist
 ** Group travel makes it cost-effective
 * Car rental requires prior approval and should include:
+
 ** Basic insurance coverage
 ** GPS if needed for safety/navigation
 ** Fuel policy:
+
 *** "Full-to-Full" policy preferred (car received with full tank and returned with full tank)
 *** Prepaid fuel options should be avoided unless specifically advantageous
 *** Refueling should be done near return location to avoid excessive charges
@@ -253,21 +266,25 @@ This section applies specifically to travel to and from client sites. Regular co
 * Visa and passport requirements are employee responsibiliy
 
 === Communication Expenses
+
 * Reasonable business call costs are covered
 * Company-approved mobile data plans should be arranged before travel
 * Personal calls limited to reasonable contact with family
 
 === Extended International Assignments
+
 * Stays over 3 months: Per diem reduced to 70% of standard rate
 * Assignment break: Minimum 4 weeks to reset per diem rates
 * Local office policies may apply for assignments over 6 months
 
 === Time Zone Considerations
+
 * Travel time calculations based on local time at each location
 * Rest period may be approved for significant time zone changes
 * Working hours should be adjusted to maintain reasonable schedule
 
 === Safety and Security
+
 * Register travel with appropriate authorities if required
 * Follow company security guidelines for high-risk areas
 * Keep emergency contact information readily available
@@ -276,6 +293,7 @@ This section applies specifically to travel to and from client sites. Regular co
 == Meal Compensation
 
 === Provided Meals
+
 * Deductions from per diem or travel allowance apply when meals are provided by employer
 * Deduction rates follow current Swedish Tax Agency guidelines
 * No reduction shall be made for meals that are included in the fare for flights or trains
@@ -283,7 +301,9 @@ This section applies specifically to travel to and from client sites. Regular co
 == Company Events and Team Activities
 
 === Social Events and Team Building
+
 * No travel compensation is provided for:
+
 ** Team building activities
 **  Social gatherings
 **  Company celebrations
@@ -295,11 +315,13 @@ This section applies specifically to travel to and from client sites. Regular co
 **  Any events primarily focused on social interaction
 
 === Business Events vs Social Events
+
 * Regular business meetings and client work are covered by standard travel compensation rules
 * Events primarily focused on social interaction or team building are considered personal travel
 * If uncertain about the nature of an event, confirm with your manager beforehand
 
 === Clarity Examples
+
 * Compensated: Client meeting in another city
 * Not Compensated: Company summer party
 * Compensated: Training at client site
@@ -307,7 +329,7 @@ This section applies specifically to travel to and from client sites. Regular co
 * Not Compensated: Office holiday celebration
 
 == Expense Reporting
+
 * All receipts and documentation must follow company procedures
 * Original receipts required for reimbursement
 * Claims must be submitted through designated expense reporting system
-
