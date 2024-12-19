@@ -159,7 +159,9 @@ When approved, the following compensation applies:
 * Course and conference meals:
 
 ** Taxable when employer is not the organizer and meals are included in the fee
+
 ** Not taxable when part of internal company events
+
 ** Not taxable when part of external business representation
 
 == Transportation Guidelines
@@ -197,8 +199,11 @@ When approved, the following compensation applies:
 * For travel spanning multiple countries in one day (06:00 - 24:00):
 
 ** Per diem based on country where most time was spent
+
 ** If majority of time spent in Sweden on arrival/departure day, Swedish domestic rates and rules apply
+
 ** Time spent in each country is calculated using the local time of each location
+
 ** Example: When traveling from Sweden to Spain with a connection in Germany, the country where most hours were spent between 06:00 - 24:00 determines the per diem rate
 
 === Per Diem Reduction
@@ -212,13 +217,18 @@ When approved, the following compensation applies:
 * Per diem is reduced when free meals are provided:
 
 ** Breakfast: 15% reduction of daily allowance
+
 ** Lunch: 35% reduction of daily allowance
+
 ** Dinner: 35% reduction of daily allowance
+
 * Meals included in conference fees or business meetings are considered provided meals
 * Hotel breakfast is considered a provided meal when:
 
 ** Included in the room rate
+
 ** Cannot be deselected for a lower room rate
+
 ** Part of a mandatory package
 
 ==== Qualifying Meal Conditions
@@ -245,17 +255,25 @@ When approved, the following compensation applies:
 * Taxi usage permitted when:
 
 ** Public transport is unavailable or impractical
+
 ** Safety concerns exist
+
 ** Group travel makes it cost-effective
+
 * Car rental requires prior approval and should include:
 
 ** Basic insurance coverage
+
 ** GPS if needed for safety/navigation
+
 ** Fuel policy:
 
 *** "Full-to-Full" policy preferred (car received with full tank and returned with full tank)
+
 *** Prepaid fuel options should be avoided unless specifically advantageous
+
 *** Refueling should be done near return location to avoid excessive charges
+
 *** Save all fuel receipts for expense reporting
 
 === Accommodation
@@ -312,13 +330,21 @@ When approved, the following compensation applies:
 * No travel compensation is provided for:
 
 ** Team building activities
+
 ** Social gatherings
+
 ** Company celebrations
+
 ** After work events
+
 ** Holiday parties
+
 ** Team lunches or dinners
+
 ** Recreational activities
+
 ** Company kick-offs
+
 ** Any events primarily focused on social interaction
 
 === Business Events vs Social Events
