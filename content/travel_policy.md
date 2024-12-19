@@ -1,9 +1,5 @@
 = Travel Policy
 
-
-**Scope: This policy applies to all employees in Sweden**
-
-
 == General Principles
 
 Business travel is an integral part of our operations and represents a significant portion of the costs we bill to our clients. This policy ensures that travel arrangements meet both company and client interests while maintaining reasonable standards for employee comfort and cost-effectiveness.
