@@ -71,6 +71,7 @@ This section applies specifically to travel to and from client sites. Regular co
 * Applies only for travel to client sites
 
 === Additional Vehicle-Related Expenses for Client Visits
+
 * Parking fees at client sites are reimbursable
 * Congestion tax for client site visits is reimbursable
 * Carpooling should be utilized when possible
@@ -99,6 +100,7 @@ This section applies specifically to travel to and from client sites. Regular co
 ==== Other Office Locations
 
 * All zones (regardless of distance):
+
 ** Tax-free mileage compensation only
 ** Distance calculated as actual journey minus regular commute
 
@@ -148,9 +150,12 @@ This section applies specifically to travel to and from client sites. Regular co
 === Meal Taxation
 
 * Meals are considered a taxable benefit unless they are:
+
 ** Classified as internal/external business representation
 ** Included as a mandatory part of transport tickets
+
 * Course and conference meals:
+
 ** Taxable when employer is not the organizer and meals are included in the fee
 ** Not taxable when part of internal company events
 ** Not taxable when part of external business representation
@@ -192,7 +197,7 @@ This section applies specifically to travel to and from client sites. Regular co
 ** Per diem based on country where most time was spent
 ** If majority of time spent in Sweden on arrival/departure day, Swedish domestic rates and rules apply
 ** Time spent in each country is calculated using the local time of each location
-** Example: When traveling from Sweden to Spain with a connection in Germany, the country where most hours were spent between 06:00-24:00 determines the per diem rate
+** Example: When traveling from Sweden to Spain with a connection in Germany, the country where most hours were spent between 06:00 - 24:00 determines the per diem rate
 
 === Per Diem Reduction
 
