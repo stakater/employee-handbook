@@ -153,6 +153,7 @@ When approved, the following compensation applies:
 * Meals are considered a taxable benefit unless they are:
 
 ** Classified as internal/external business representation
+
 ** Included as a mandatory part of transport tickets
 
 * Course and conference meals:
