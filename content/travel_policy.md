@@ -1,7 +1,6 @@
-
 = Travel Policy
 
-*Scope: This policy applies to all employees in Sweden*
+** Scope: This policy applies to all employees in Sweden **
 
 == General Principles
 
@@ -108,9 +107,9 @@ When approved, the following compensation applies:
 
 ** Distance calculated as actual journey minus regular commute
 
-=== Per Diem for Daily Commuting
+=== Per ´diem´ for Daily Commuting
 
-* No per diem allowance is paid for daily commuting regardless of distance
+* No per ´diem´ allowance is paid for daily commuting regardless of distance
 * This applies to all employees regardless of office location
 
 == Travel Time Compensation
@@ -133,7 +132,7 @@ When approved, the following compensation applies:
 . Destination must be more than 50 km from both regular workplace and residence
 . Trip must include overnight stay
 
-=== Per Diem Allowances
+=== Per ´diem´ Allowances
 
 * Full day: If departure before 12:00 or return after 19:00
 * Half day: If departure after 12:00 or return before 19:00
@@ -142,8 +141,8 @@ When approved, the following compensation applies:
 
 === Extended Business Travel
 
-* After 3 months: Per diem reduced to 70% of standard rate
-* After 2 years: Per diem reduced to 50% of standard rate
+* After 3 months: Per ´diem´ reduced to 70% of standard rate
+* After 2 years: Per ´diem´ reduced to 50% of standard rate
 * Four-week minimum break required to reset period
 
 === Accommodation
@@ -195,30 +194,30 @@ When approved, the following compensation applies:
 * Economy class is standard for flights under 6 hours
 * Business class may be approved for flights over 6 hours, subject to manager approval
 
-=== Per Diem for International Travel
+=== Per ´diem´ for International Travel
 
 * Rates follow Swedish Tax Agency's recommended amounts for each country
 * Full day allowance: Departure before 12:00 or return after 19:00
 * Half day allowance: Departure after 12:00 or return before 19:00
 * For travel spanning multiple countries in one day (06:00 - 24:00):
 
-** Per diem based on country where most time was spent
+** Per ´diem´ based on country where most time was spent
 
 ** If majority of time spent in Sweden on arrival/departure day, Swedish domestic rates and rules apply
 
 ** Time spent in each country is calculated using the local time of each location
 
-** Example: When traveling from Sweden to Spain with a connection in Germany, the country where most hours were spent between 06:00 - 24:00 determines the per diem rate
+** Example: When traveling from Sweden to Spain with a connection in Germany, the country where most hours were spent between 06:00 - 24:00 determines the per ´diem´ rate
 
-=== Per Diem Reduction
+=== Per ´diem´ Reduction
 
-* No per diem or travel allowance paid for internal/external courses with provided meals
+* No per ´diem´ or travel allowance paid for internal/external courses with provided meals
 * Current deduction rates must follow Swedish Tax Agency guidelines
 * Employees are responsible for reporting provided meals in the company expense system
 
-==== Per Diem Reductions for Provided Meals
+==== Per ´diem´ Reductions for Provided Meals
 
-* Per diem is reduced when free meals are provided:
+* Per ´diem´ is reduced when free meals are provided:
 
 ** Breakfast: 15% reduction of daily allowance
 
@@ -249,8 +248,8 @@ When approved, the following compensation applies:
 
 ==== Special Circumstances
 
-* If dietary restrictions prevent eating provided meals, full per diem may be claimed with manager approval
-* In-flight meals on overnight flights do not reduce next day's per diem
+* If dietary restrictions prevent eating provided meals, full per ´diem´ may be claimed with manager approval
+* In-flight meals on overnight flights do not reduce next day's per ´diem´
 * When multiple meals are provided in different countries, reduction based on the country where lunch is provided
 
 === Transportation During International Travel
@@ -292,7 +291,7 @@ When approved, the following compensation applies:
 * Travel insurance is provided by company insurance policy
 * Healthcare coverage details should be confirmed before travel
 * Emergency contact procedures must be documented
-* Visa and passport requirements are employee responsibiliy
+* Visa and passport requirements are employee responsibility
 
 === Communication Expenses
 
@@ -302,8 +301,8 @@ When approved, the following compensation applies:
 
 === Extended International Assignments
 
-* Stays over 3 months: Per diem reduced to 70% of standard rate
-* Assignment break: Minimum 4 weeks to reset per diem rates
+* Stays over 3 months: Per ´´diem´´ reduced to 70% of standard rate
+* Assignment break: Minimum 4 weeks to reset per ´´diem´´ rates
 * Local office policies may apply for assignments over 6 months
 
 === Time Zone Considerations
@@ -323,7 +322,7 @@ When approved, the following compensation applies:
 
 === Provided Meals
 
-* Deductions from per diem or travel allowance apply when meals are provided by employer
+* Deductions from per ´diem´ or travel allowance apply when meals are provided by employer
 * Deduction rates follow current Swedish Tax Agency guidelines
 * No reduction shall be made for meals that are included in the fare for flights or trains
 
