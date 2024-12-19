@@ -56,7 +56,7 @@ This section applies specifically to travel to and from client sites. Regular co
 
 ** Equipment transport needs
 
-   When approved, the following compensation applies:
+When approved, the following compensation applies:
 
 ==== Inner Zone (within 25 km radius from office):
 
@@ -117,6 +117,7 @@ This section applies specifically to travel to and from client sites. Regular co
 * Must complete full working day (8 hours or equivalent to employment percentage)
 * No compensation for travel within 25 km radius of assigned office
 * Calculation method:
+
 . Measure total travel time to client site
 . Subtract normal commute time (home to office)
 . Remaining time is eligible for compensation
@@ -310,14 +311,14 @@ This section applies specifically to travel to and from client sites. Regular co
 * No travel compensation is provided for:
 
 ** Team building activities
-**  Social gatherings
-**  Company celebrations
-**  After work events
-**  Holiday parties
-**  Team lunches or dinners
-**  Recreational activities
-**  Company kick-offs
-**  Any events primarily focused on social interaction
+** Social gatherings
+** Company celebrations
+** After work events
+** Holiday parties
+** Team lunches or dinners
+** Recreational activities
+** Company kick-offs
+** Any events primarily focused on social interaction
 
 === Business Events vs Social Events
 
