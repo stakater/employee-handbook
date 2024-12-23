@@ -1,9 +1,11 @@
-# NON-DISCLOSURE INTELLECTUAL PROPERTY RIGHTS & RESTRICTIONS AGREEMENT
+# Non-Disclosure, Intellectual Property Rights & Restrictions Agreement
 
-This Non-Disclosure Intellectual Property Rights & Restrictions Agreement (the “Agreement”) is by and between:
+This Non-Disclosure, Intellectual Property Rights & Restrictions Agreement (the “Agreement”) is by and between:
 
-STAKATER AB 559066-6870 of Valhallavägen 2 Täby 18773 Stockholm Sweden (“Company”);  
-and _______________________________________________________________________________________  
+STAKATER AB 559066-6870 of Valhallavägen 2 Täby 18773 Stockholm Sweden (“Company”); and
+
+---
+
 the (“Receiving Party”).
 
 Each a “Party” and together the “Parties”.
