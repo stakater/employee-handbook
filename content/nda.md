@@ -2,7 +2,7 @@
 
 This Non-Disclosure, Intellectual Property Rights & Restrictions Agreement (the “Agreement”) is by and between:
 
-STAKATER AB 559066-6870 of Valhallavägen 2 Täby 18773 Stockholm Sweden (“Company”); and
+Stakater AB 559066-6870 of Valhallavägen 2 Täby 18773 Stockholm Sweden (“Company”); and
 
 ---
 

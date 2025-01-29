@@ -59,7 +59,7 @@ If an employee travels via public transport, the company will reimburse travel t
 
 ### SIM-card
 
-Each employee will get a postpaid SIM-card from the company with a subscription type minimum Flat rate with 50 GB data, which includes unlimited free calls and SMS/MMS within Sweden. Employees should use it only for calls within Sweden. The cost of all calls outside Sweden (if not official) will be deducted from the salary.
+Each employee will get a postpaid SIM-card from the company with a subscription type minimum Flat rate with 50 Gb data, which includes unlimited free calls and SMS/MMS within Sweden. Employees should use it only for calls within Sweden. The cost of all calls outside Sweden (if not official) will be deducted from the salary.
 
 ### Health and training grant
 
