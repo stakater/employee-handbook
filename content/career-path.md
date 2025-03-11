@@ -4,7 +4,8 @@ The career paths for managed services are as follows:
 
 ```mermaid
 graph TD
-    SE[Software Engineer] --> SSE(Senior Software Engineer)
+    JSE(Junior Software Engineer) --> SE(Software Engineer)
+    SE --> SSE(Senior Software Engineer)
     SSE --> PSE(Principal Software Engineer)
     PSE --> SEM(Software Engineer Manager)
     PSE --> SA(Solution Architect)
@@ -15,6 +16,30 @@ graph TD
 ```
 
 The process for going from one role to the next is described in the [process document](career-path-process.md).
+
+## Junior Software Engineer
+
+### Key Characteristics
+
+- Internships and projects experience
+- Undergraduate or graduate degree in computer science
+
+### Knowledge and Experience
+
+- Programming knowledge
+- Ability to solve well-defined problems within area of knowledge
+- Collaborative and strong learning attitude
+
+### Leadership Competencies
+
+- Integrity - takes responsibility for actions and consequences, interacts with integrity and honesty, admits mistakes
+- Retrospective - actively seeks feedback from others, learns from successes and mistakes, resourceful is pursuing learning objectives
+- Goal driven - drive to achieve stretched performance objectives, takes every opportunity to do more than expected, pursues goals with energy and drives through to completion, plans and prioritizes work effectively
+
+### Performance Indicators
+
+- High engagement in company activities, giving constructive feedback
+- Learning new technologies to improve and optimize day-to-day workflows
 
 ## Software Engineer
 
