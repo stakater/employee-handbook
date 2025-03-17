@@ -27,19 +27,19 @@ The process for going from one role to the next is described in the [process doc
 ### Knowledge and Experience
 
 - Programming knowledge
-- Ability to solve well-defined problems within area of knowledge
-- Collaborative and strong learning attitude
+- Ability to solve problems within area of knowledge
+- Collaborative and learning attitude
 
 ### Leadership Competencies
 
 - Integrity - takes responsibility for actions and consequences, interacts with integrity and honesty, admits mistakes
-- Retrospective - actively seeks feedback from others, learns from successes and mistakes, resourceful is pursuing learning objectives
+- Retrospective - actively seeks feedback from others, learns from successes and mistakes, resourceful in pursuing learning objectives
 - Goal driven - drive to achieve stretched performance objectives, takes every opportunity to do more than expected, pursues goals with energy and drives through to completion, plans and prioritizes work effectively
 
 ### Performance Indicators
 
-- High engagement in company activities, giving constructive feedback
-- Learning new technologies to improve and optimize day-to-day workflows
+- High engagement in company activities, giving feedback
+- Learning new technologies to improve day-to-day workflows
 
 ## Software Engineer
 
