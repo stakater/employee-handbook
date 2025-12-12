@@ -121,7 +121,6 @@ The process for going from one role to the next is described in the [process doc
 - Strong incentive to improve engineering maturity, developer experience, and Stakater culture
 - Strong grasp of Stakater’s commercial objectives and financial impact, aligning technical decisions with business growth.
 
-
 ### Leadership Competencies
 
 - Enabler - sets challenging team goals and clear standards for success, aligns the work of team members towards shared goals, creates alignment among functions where needed, delegates appropriately and trust people to perform, measures progress and results and ensures accountability, provides information and resources to achieve results, empowers individuals to solve problems, make decisions and improve processes
@@ -134,7 +133,6 @@ The process for going from one role to the next is described in the [process doc
 - Acts as a strategic technical advisor to customers, identifying opportunities for further engagements and long-term partnership growth
 - Coaches and levels up consultants so customers request more Stakater engineers due to demonstrated delivery quality and expertise
 - Strengthens Stakater’s technical brand at customers, making Stakater the preferred engineering partner
-
 
 ## Solution Architect
 
