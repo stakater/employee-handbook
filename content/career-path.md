@@ -131,7 +131,7 @@ The process for going from one role to the next is described in the [process doc
 - Demonstrates strong technical leadership that builds customer trust and confidence, resulting in additional consultant placements
 - High engagement in company activities, with constructive feedback
 - Acts as a strategic technical advisor to customers, identifying opportunities for further engagements and long-term partnership growth
-- Coaches and levels up consultants so customers request more Stakater engineers due to demonstrated delivery quality and expertise
+- Coaches and levels up consultants, so customers request more Stakater engineers due to demonstrated delivery quality and expertise
 - Strengthens Stakater’s technical brand at customers, making Stakater the preferred engineering partner
 
 ## Solution Architect
