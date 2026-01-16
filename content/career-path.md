@@ -111,16 +111,15 @@ The process for going from one role to the next is described in the [process doc
 
 - 10+ years of software development experience
 - Project development life cycle expertise
-- Experience with full end-to-end development from concept to implementation and deployment of a solution
+- Hands-on expertise building and scaling platforms, infrastructure, and distributed systems
+- End-to-end product delivery and long-term ownership of technical domains
 
 ### Knowledge and Experience
 
 - Certified expert within area of expertise
 - Highly developed ability to lead teams
-- Highly developed ability to manage interpersonal team conflicts
-- Highly developed ability to build strong collaborative relationships
-- Strong business and financial understanding
-- Strong incentive to improve Stakater culture
+- Strong incentive to improve engineering maturity, developer experience, and Stakater culture
+- Strong grasp of Stakater’s commercial objectives and financial impact, aligning technical decisions with business growth.
 
 ### Leadership Competencies
 
@@ -129,10 +128,11 @@ The process for going from one role to the next is described in the [process doc
 
 ### Performance Indicators
 
+- Demonstrates strong technical leadership that builds customer trust and confidence, resulting in additional consultant placements
 - High engagement in company activities, with constructive feedback
-- Strong ability to influence customer business decisions
-- Mentoring effectiveness to help others deliver customer happiness
-- Project delivery on-time, at-cost, exceeding quality expectations
+- Acts as a strategic technical advisor to customers, identifying opportunities for further engagements and long-term partnership growth
+- Coaches and levels up consultants, so customers request more Stakater engineers due to demonstrated delivery quality and expertise
+- Strengthens Stakater’s technical brand at customers, making Stakater the preferred engineering partner
 
 ## Solution Architect
 
