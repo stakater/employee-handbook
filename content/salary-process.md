@@ -26,22 +26,22 @@ The salary review process is conducted annually and consists of four main phases
 
 ### Overall Preparation
 
-- Planning the salary review process for the contract period in collaboration with the CEO, based on the company's requirements, financial conditions and market situation.   
-- Salary Principles confirms the company's salary principles and criteria prior to the revision.
+- Planning the salary review process for the contract period in collaboration with the CEO, based on the company's requirements, financial conditions and market situation.  
+- Salary Principles confirms the company's salary principles and criteria prior to the revision.  
 - Analysis where salary setting manager present the current salary structure to establish alignment with the CEO and identify any need for changes.  
 
 ### Preparation
 
-- Communication to inform relevant parties about the scope and plan for the salary revision. 
-- Documentation the necessary documentation to evaluate employees' performance. 
-- Use performance reviews and 1:1 meetings to gather relevant information. 
+- Communication to inform relevant parties about the scope and plan for the salary revision.  
+- Documentation the necessary documentation to evaluate employees' performance.  
+- Use performance reviews and 1:1 meetings to gather relevant information.  
 
 ### Execution
 
-- Performance Reviews is where we conduct performance reviews to evaluate employees' performance, revise old goals and set new goals.   
-- Evaluation and conduct a comprehensive assessment and propose new salaries based on employees' performance and the company's salary principles. 
+- Performance Reviews is where we conduct performance reviews to evaluate employees' performance, revise old goals and set new goals.  
+- Evaluation and conduct a comprehensive assessment and propose new salaries based on employees' performance and the company's salary principles.  
 - Salary Setting Discussions holds the salary discussions where new salary proposals are presented and justified to the employees.  
-- Implementation of the new salaries where they are paid out according to the established timeline. 
+- Implementation of the new salaries where they are paid out according to the established timeline.  
 
 ### Evaluation
 
@@ -49,25 +49,25 @@ The salary review process is conducted annually and consists of four main phases
 
 ## Timeline
 
-| Period          | Activity                                                   |
-|-----------------|------------------------------------------------------------|
-| **January**     | Begin preparations for the salary revision                 |
-| **February**    | Initiate performance reviews and gather documentation      |
-| **March–April** | Finalize evaluations and salary setting discussions        |
-| **April–May**   | Pay out the new salary (counted from April)                |
-| **By September**| Evaluate the process                                       |
+| Period          | Activity                                                  |
+|-----------------|-----------------------------------------------------------|
+| **January**     | Begin preparations for the salary revision              |
+| **February**    | Initiate performance reviews and gather documentation   |
+| **March–April** | Finalize evaluations and salary setting discussions     |
+| **April–May**   | Pay out the new salary (counted from April)             |
+| **By September**| Evaluate the process                                     |
 
 ## Evaluation Criteria
 
 Salary adjustments are based on the following seven main evaluation categories:
 
-- **Results** – How well the employee has achieved their set goals.
+- **Results** – How well the employee has achieved their set goals.  
 - **Customer Satisfaction** – The quality of customer relationships and deliveries.  
-- **Service Quality** – The employee's ability to provide high-quality service. 
+- **Service Quality** – The employee's ability to provide high-quality service.  
 - **Collaboration and Behaviour** – How well the employee collaborates with colleagues and acts in accordance with the company's values.  
-- **Proactivity** – The ability to act proactively and contribute new ideas. 
+- **Proactivity** – The ability to act proactively and contribute new ideas.  
 - **Learning and Development** – The employee's willingness to develop and learn new things.  
-- **Efficiency** – The ability to work efficiently and deliver results productively.
+- **Efficiency** – The ability to work efficiently and deliver results productively.  
 
 ## Documentation and Basis
 
