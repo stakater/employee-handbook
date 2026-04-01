@@ -8,50 +8,73 @@ The purpose of this salary policy is to ensure a fair and transparent salary set
 
 Salary setting is based on the following principles:
 
-- Performance and Results where salaries are set based on the employee's performance, evaluated according to clear criteria and goals established in collaboration with their immediate manager.
-- Market Competitiveness is where the salary structure should reflect market levels and be competitive to attract and retain talented employees.
-- Internal Equity is that salary setting should be fair and consistent for all employees with similar responsibilities and performance.
+### Performance and Results
 
-## Salary Process
+Salaries are set based on the employee's performance, evaluated according to clear criteria and goals established in collaboration with their immediate manager.
 
-- Overall Preparation for Salary Revision
--- Planning the salary review process for the contract period in collaboration with the CEO, based on the company's requirements, financial conditions and market situation.
--- Salary Principles confirms the company's salary principles and criteria prior to the revision.
--- Analysis where salary setting manager present the current salary structure to establish alignment with the CEO and identify any need for changes.
+### Market Competitiveness
 
-- Preparation for Salary Revision
--- Communication to inform relevant parties about the scope and plan for the salary revision.
--- Documentation the necessary documentation to evaluate employees' performance. Use performance reviews and 1:1 meetings to gather relevant information.
+Salary structure should reflect market levels and be competitive to attract and retain talented employees.
 
-- Execution of Salary Revision
--- Performance Reviews is where we conduct performance reviews to evaluate employees' performance, revise old goals and set new goals.
--- Evaluation and conduct a comprehensive assessment and propose new salaries based on employees' performance and the company's salary principles.
--- Salary Setting Discussions holds the salary discussions where new salary proposals are presented and justified to the employees.
--- Implementation of the new salaries where they are paid out according to the established timeline.
+### Internal Equity
 
-- Evaluation of the Salary Revision Process
--- Feedback and review where we evaluate the whole salary process to identify areas for improvement in future salary revisions.
+Salary setting should be fair and consistent for all employees with similar responsibilities and performance.
 
-## Timeline for the Salary Process
+## Salary Review Process
 
-. Start in January: Begin preparations for the salary revision
-. Start in February: Initiate performance reviews and gather documentation
-. Completion in March-April: Finalize evaluations and salary setting discussions
-. Finalisation by April-May: Pay out the new salary (counted from April)
-. Completion by September: Evaluate the process
+The salary review process is conducted annually and consists of four main phases:
+
+### Overall Preparation
+
+- Planning the salary review process for the contract period in collaboration with the CEO, based on the company's requirements, financial conditions and market situation.  
+- Salary Principles confirms the company's salary principles and criteria prior to the revision.  
+- Analysis where salary setting manager present the current salary structure to establish alignment with the CEO and identify any need for changes.  
+
+### Preparation
+
+- Communication to inform relevant parties about the scope and plan for the salary revision.  
+- Documentation the necessary documentation to evaluate employees' performance.  
+- Use performance reviews and 1:1 meetings to gather relevant information.  
+
+### Execution
+
+- Performance Reviews is where we conduct performance reviews to evaluate employees' performance, revise old goals and set new goals.  
+- Evaluation and conduct a comprehensive assessment and propose new salaries based on employees' performance and the company's salary principles.  
+- Salary Setting Discussions holds the salary discussions where new salary proposals are presented and justified to the employees.  
+- Implementation of the new salaries where they are paid out according to the established timeline.  
+
+### Evaluation
+
+- Feedback and review where we evaluate the whole salary process to identify areas for improvement in future salary revisions.  
+
+## Timeline
+
+| Period          | Activity                                                  |
+|-----------------|-----------------------------------------------------------|
+| **January**     | Begin preparations for the salary revision              |
+| **February**    | Initiate performance reviews and gather documentation   |
+| **March–April** | Finalize evaluations and salary setting discussions     |
+| **April–May**   | Pay out the new salary (counted from April)             |
+| **By September**| Evaluate the process                                     |
 
 ## Evaluation Criteria
 
 Salary adjustments are based on the following seven main evaluation categories:
 
-- Results: How well the employee has achieved their set goals.
-- Customer Satisfaction: The quality of customer relationships and deliveries.
-- Service Ability: The employee's ability to provide high-quality service.
-- Collaboration and Behaviour: How well the employee collaborates with colleagues and acts in accordance with the company's values.
-- Proactivity: The ability to act proactively and contribute new ideas.
-- Learning and Development: The employee's willingness to develop and learn new things.
-- Efficiency: The ability to work efficiently and deliver results productively.
+- **Results** – How well the employee has achieved their set goals.  
+- **Customer Satisfaction** – The quality of customer relationships and deliveries.  
+- **Service Quality** – The employee's ability to provide high-quality service.  
+- **Collaboration and Behaviour** – How well the employee collaborates with colleagues and acts in accordance with the company's values.  
+- **Proactivity** – The ability to act proactively and contribute new ideas.  
+- **Learning and Development** – The employee's willingness to develop and learn new things.  
+- **Efficiency** – The ability to work efficiently and deliver results productively.  
 
 ## Documentation and Basis
 
-To ensure a fair and accurate assessment, data and feedback are collected throughout the year, including 1:1 meetings, performance reviews and other relevant meetings. This information forms the basis for the salary revision and ensures that it reflects the employee's performance and development over time.
+Salary decisions are based on continuous evaluation throughout the year. Supporting data includes:
+
+- 1:1 meetings  
+- Performance reviews  
+- Ongoing feedback and relevant discussions  
+
+This ensures that salary adjustments reflect each employee’s **performance, contributions, and development over time**.
