@@ -2,56 +2,72 @@
 
 ## Purpose
 
-The purpose of this salary policy is to ensure a fair and transparent salary setting that rewards employees' performance and contributions to the company's goals. The policy serves as a guide for how salaries are determined, revised and communicated within the company.
+This salary policy ensures a **fair, transparent, and consistent approach** to compensation. It is designed to reward employee performance, support business goals, and provide clear guidance on how salaries are determined, reviewed, and communicated within the company.
 
 ## Salary Principles
 
-Salary setting is based on the following principles:
+Salary decisions are guided by the following core principles:
 
-- Performance and Results where salaries are set based on the employee's performance, evaluated according to clear criteria and goals established in collaboration with their immediate manager.
-- Market Competitiveness is where the salary structure should reflect market levels and be competitive to attract and retain talented employees.
-- Internal Equity is that salary setting should be fair and consistent for all employees with similar responsibilities and performance.
+### Performance and Results
+Salaries are based on individual performance, assessed against clearly defined goals and criteria agreed upon with the employee’s immediate manager.
 
-## Salary Process
+### Market Competitiveness
+Compensation levels should align with the external market to ensure the company can attract and retain top talent.
 
-- Overall Preparation for Salary Revision
--- Planning the salary review process for the contract period in collaboration with the CEO, based on the company's requirements, financial conditions and market situation.
--- Salary Principles confirms the company's salary principles and criteria prior to the revision.
--- Analysis where salary setting manager present the current salary structure to establish alignment with the CEO and identify any need for changes.
+### Internal Equity
+Salary decisions must be fair and consistent across employees with comparable roles, responsibilities, and performance levels.
 
-- Preparation for Salary Revision
--- Communication to inform relevant parties about the scope and plan for the salary revision.
--- Documentation the necessary documentation to evaluate employees' performance. Use performance reviews and 1:1 meetings to gather relevant information.
+## Salary Review Process
 
-- Execution of Salary Revision
--- Performance Reviews is where we conduct performance reviews to evaluate employees' performance, revise old goals and set new goals.
--- Evaluation and conduct a comprehensive assessment and propose new salaries based on employees' performance and the company's salary principles.
--- Salary Setting Discussions holds the salary discussions where new salary proposals are presented and justified to the employees.
--- Implementation of the new salaries where they are paid out according to the established timeline.
+The salary review process is conducted annually and consists of four main phases:
 
-- Evaluation of the Salary Revision Process
--- Feedback and review where we evaluate the whole salary process to identify areas for improvement in future salary revisions.
+### Overall Preparation
+- Plan the salary review cycle in collaboration with the CEO, considering business needs, financial conditions, and market trends  
+- Confirm salary principles and evaluation criteria  
+- Analyze the current salary structure to ensure alignment and identify adjustment needs  
 
-## Timeline for the Salary Process
+### Preparation
+- Communicate the process, scope, and timeline to relevant stakeholders  
+- Collect and prepare documentation, including performance reviews and 1:1 meeting insights  
 
-. Start in January: Begin preparations for the salary revision
-. Start in February: Initiate performance reviews and gather documentation
-. Completion in March-April: Finalize evaluations and salary setting discussions
-. Finalisation by April-May: Pay out the new salary (counted from April)
-. Completion by September: Evaluate the process
+### Execution
+- Conduct performance reviews to evaluate results, update previous goals, and define new ones  
+- Assess employee performance and propose salary adjustments based on established principles  
+- Hold salary discussions to present and explain salary decisions  
+- Implement approved salary changes according to the defined timeline  
+
+### Evaluation
+- Gather feedback and review the overall process  
+- Identify improvements for future salary review cycles  
+
+## Timeline
+
+| Period        | Activity                                                   |
+|---------------|------------------------------------------------------------|
+| **January**   | Begin preparation and planning                             |
+| **February**  | Conduct performance reviews and gather documentation       |
+| **March–April** | Finalize evaluations and salary discussions              |
+| **April–May** | Implement and pay out new salaries (effective from April)  |
+| **By September** | Evaluate and improve the process                       |
 
 ## Evaluation Criteria
 
-Salary adjustments are based on the following seven main evaluation categories:
+Salary adjustments are based on the following key areas:
 
-- Results: How well the employee has achieved their set goals.
-- Customer Satisfaction: The quality of customer relationships and deliveries.
-- Service Ability: The employee's ability to provide high-quality service.
-- Collaboration and Behaviour: How well the employee collaborates with colleagues and acts in accordance with the company's values.
-- Proactivity: The ability to act proactively and contribute new ideas.
-- Learning and Development: The employee's willingness to develop and learn new things.
-- Efficiency: The ability to work efficiently and deliver results productively.
+- **Results** – Achievement of individual goals  
+- **Customer Satisfaction** – Quality of customer relationships and delivery  
+- **Service Quality** – Ability to provide high-quality service  
+- **Collaboration and Behaviour** – Teamwork and alignment with company values  
+- **Proactivity** – Initiative and contribution of new ideas  
+- **Learning and Development** – Commitment to growth and skill development  
+- **Efficiency** – Productivity and effective use of time and resources  
 
 ## Documentation and Basis
 
-To ensure a fair and accurate assessment, data and feedback are collected throughout the year, including 1:1 meetings, performance reviews and other relevant meetings. This information forms the basis for the salary revision and ensures that it reflects the employee's performance and development over time.
+Salary decisions are based on continuous evaluation throughout the year. Supporting data includes:
+
+- 1:1 meetings  
+- Performance reviews  
+- Ongoing feedback and relevant discussions  
+
+This ensures that salary adjustments reflect each employee’s **performance, contributions, and development over time**.
