@@ -9,12 +9,15 @@ This salary policy ensures a **fair, transparent, and consistent approach** to c
 Salary decisions are guided by the following core principles:
 
 ### Performance and Results
+
 Salaries are based on individual performance, assessed against clearly defined goals and criteria agreed upon with the employee’s immediate manager.
 
 ### Market Competitiveness
+
 Compensation levels should align with the external market to ensure the company can attract and retain top talent.
 
 ### Internal Equity
+
 Salary decisions must be fair and consistent across employees with comparable roles, responsibilities, and performance levels.
 
 ## Salary Review Process
@@ -22,33 +25,37 @@ Salary decisions must be fair and consistent across employees with comparable ro
 The salary review process is conducted annually and consists of four main phases:
 
 ### Overall Preparation
+
 - Plan the salary review cycle in collaboration with the CEO, considering business needs, financial conditions, and market trends  
 - Confirm salary principles and evaluation criteria  
 - Analyze the current salary structure to ensure alignment and identify adjustment needs  
 
 ### Preparation
+
 - Communicate the process, scope, and timeline to relevant stakeholders  
 - Collect and prepare documentation, including performance reviews and 1:1 meeting insights  
 
 ### Execution
+
 - Conduct performance reviews to evaluate results, update previous goals, and define new ones  
 - Assess employee performance and propose salary adjustments based on established principles  
 - Hold salary discussions to present and explain salary decisions  
 - Implement approved salary changes according to the defined timeline  
 
 ### Evaluation
+
 - Gather feedback and review the overall process  
 - Identify improvements for future salary review cycles  
 
 ## Timeline
 
-| Period        | Activity                                                   |
-|---------------|------------------------------------------------------------|
-| **January**   | Begin preparation and planning                             |
-| **February**  | Conduct performance reviews and gather documentation       |
-| **March–April** | Finalize evaluations and salary discussions              |
-| **April–May** | Implement and pay out new salaries (effective from April)  |
-| **By September** | Evaluate and improve the process                       |
+| Period          | Activity                                                   |
+|-----------------|------------------------------------------------------------|
+| **January**     | Begin preparation and planning                             |
+| **February**    | Conduct performance reviews and gather documentation       |
+| **March–April** | Finalize evaluations and salary discussions               |
+| **April–May**   | Implement and pay out new salaries (effective from April)  |
+| **By September**| Evaluate and improve the process                           |
 
 ## Evaluation Criteria
 
