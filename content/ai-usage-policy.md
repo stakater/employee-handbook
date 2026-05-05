@@ -4,7 +4,7 @@
 
 This policy defines how artificial intelligence (AI) tools are used within Stakater. The goal is to enable employees to safely leverage AI to improve productivity, software quality, and innovation, while protecting company data, customer trust, and compliance obligations. AI is treated as an augmentation tool, not a replacement for professional judgment, and all outputs remain the responsibility of the employee using them.
 
-The intent of this policy is not to restrict usage, but to provide clear guardrails so employees can confidently adopt AI in their daily workflows. As AI becomes increasingly integrated into engineering and platform work, a shared understanding of acceptable usage reduces ambiguity and prevents inconsistent practices across teams.
+The intent of this policy is not to restrict usage, but to provide clear guardrails so that employees can confidently adopt AI in their daily workflows. As AI becomes increasingly integrated into engineering and platform work, a shared understanding of acceptable usage reduces ambiguity and prevents inconsistent practices across teams.
 
 ## 2. Scope
 
